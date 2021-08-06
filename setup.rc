@@ -1,0 +1,2 @@
+export PYTHONPATH=`pwd`:"$PYTHONPATH"
+export OMP_NUM_THREADS=1
